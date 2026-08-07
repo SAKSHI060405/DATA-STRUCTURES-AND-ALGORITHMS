@@ -8,45 +8,6 @@ This repository contains my solutions to DSA problems that I solve while prepari
 
 - Java
 
-## 📂 Topics Covered
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Heaps
-- Hashing
-- Recursion
-- Backtracking
-- Greedy Algorithms
-- Dynamic Programming
-- Graphs
-- Binary Search
-- Sliding Window
-- Two Pointers
-- Bit Manipulation
-- Math
-- Sorting & Searching
-
-## 📌 Repository Structure
-
-```
-DSA/
-│── Arrays/
-│── Strings/
-│── LinkedList/
-│── Stack/
-│── Queue/
-│── Trees/
-│── Graphs/
-│── DynamicProgramming/
-│── Recursion/
-│── ...
-```
-
 ## 🎯 Goals
 
 - Solve problems consistently.
@@ -58,11 +19,6 @@ DSA/
 
 Problems are solved from:
 - LeetCode
-- GeeksforGeeks
-- Coding Ninjas
-- CodeStudio
-- HackerRank
-- CodeChef
 
 ## 🌱 Progress
 
